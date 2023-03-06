@@ -1,1 +1,1 @@
-# CSE3015DigitalLogicDesignTermProject
+# CSE3015 Digital Logic Design Term Project
